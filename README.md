@@ -64,4 +64,3 @@ Pastikan Anda memiliki hal-hal berikut sebelum menjalankan proyek ini:
 - `youtube_sentiment_analyzer.ipynb` — Kode utama alur kerja analisis sentimen.
 - `requirements.txt` — Daftar pustaka Python yang dibutuhkan.
 - `.env` / `env.example` — Berkas environment untuk menyimpan kredensial dengan aman.
-- `DESIGN.MD` — Dokumentasi rancangan awal dan arsitektur (sistem).
